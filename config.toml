@@ -1,4 +1,4 @@
-baseurl = "https://whatever.github.io/iltuoconsulente/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
+baseurl = "https://hugo-test-23j6.onrender.com/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
 title = "Il tuo consulente"
 theme = "hugo-universal-theme"
 themesDir = "themes/"
