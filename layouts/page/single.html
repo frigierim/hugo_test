@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+  <head>
+    {{ partial "headers.html" . }}
+    {{ partial "custom_headers.html" . }}
+  </head>
+
+  <body>
+
+    <div id="all">
+        {{ partial "top.html" . }}
+
+        {{ partial "nav.html" . }}
+
+        {{ partial "breadcrumbs.html" . }}
+
+        <div id="content">
+            {{ if isset .Params "id" }}
+
+              {{ partial .Params.id . }}
+
+            {{ else }}
+
+            <div class="container">
+
+                <div class="row">
+
+                    <div class="col-md-12">
+
+                        <div>
+                          {{ .Content }}
+                        </div>
+
+                        {{ if .Params.show_services }}
+                        <div>
+                            {{ partial "service_carousel.html" . }}
+                        </div>
+                        Non hai trovato quello che ti serve? Mettiamoci in contatto e cerchiamo di capire insieme come posso aiutarti a soddisfare le tue esigenze.
+                        <br/>
+                        <br/>
+
+                        {{ end }}
+                        
+                    </div>
+
+                </div>
+                <!-- /.row -->
+
+            </div>
+            <!-- /.container -->
+
+            {{ end }}
+        </div>
+        <!-- /#content -->
+
+        {{ partial "footer.html" . }}
+
+    </div>
+    <!-- /#all -->
+
+    {{ partial "scripts.html" . }}
+
+  </body>
+</html>

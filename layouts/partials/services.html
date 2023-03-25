@@ -1,0 +1,28 @@
+{{ if isset .Site.Params "services" }}
+{{ if .Site.Params.services.enable }}
+{{ if isset .Site.Data "services" }}
+{{ if gt (len .Site.Data.services) 0 }}
+<section class="bar background-pentagon no-mb">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="heading text-center">
+                    <h2>{{ .Site.Params.services.title }}</h2>
+                </div>
+
+                <p class="lead">
+                  {{ .Site.Params.services.subtitle | markdownify }}
+                </p>
+
+                {{ partial "service_carousel.html" . }}
+
+            </div>
+
+        </div>
+    </div>
+</section>
+<!-- /.bar -->
+{{ end }}
+{{ end }}
+{{ end }}
+{{ end }}
