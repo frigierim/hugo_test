@@ -5,7 +5,9 @@ keywords = ["FAQ","Come faccio","domande","che succede se"]
 +++
 ### COSA VUOL DIRE CFA? 
 
-CFA sta per Consulente Finanziario Autonomo e altro non &egrave; che la denominazione ufficiale del consulente indipendente. Un CFA deve essere iscritto alla sezione dedicata dell'Albo dei Consulenti Finanziari, con tutte le garanzie che ne conseguono. Per evitare truffe e verificare l'iscrizione di un consulente all'Albo &egrave; sufficiente andare sul sito dell’organismo di vigilanza e tenuta dell'Albo (OCF) e ricercare il nome nell'apposita sezione di ricerca.
+CFA sta per Consulente Finanziario Autonomo e altro non &egrave; che la denominazione ufficiale del consulente indipendente. 
+Un CFA deve essere iscritto alla sezione dedicata dell'Albo dei Consulenti Finanziari, con tutte le garanzie che ne conseguono. 
+Per evitare truffe e verificare l'iscrizione di un consulente all'Albo &egrave; sufficiente andare sul [sito dell’organismo di vigilanza e tenuta dell'Albo (OCF)](https://www.organismocf.it) e ricercare il nome nell'apposita [sezione di ricerca](https://www.organismocf.it/portal/web/portale-ocf/ricerca-nelle-sezioni-dell-albo).
 
 ### CHE DIFFERENZA C'&Egrave; TRA UN CONSULENTE TRADIZIONALE (EX PROMOTORE FINANZIARIO) E UN CONSULENTE INDIPENDENTE (CFA)?
 
@@ -43,5 +45,5 @@ Affidandoti alla mia consulenza in materia di investimenti pagherai una parcella
 Certamente, il servizio ti permetter&agrave; ad un costo modico di valutare al meglio i tuoi investimenti attuali grazie ad un'analisi indipendente e professionale, comprensiva della presentazione e discussione dei risultati. Se poi deciderai di firmare un contratto di consulenza in materia di investimenti, la spesa sostenuta ti verr&agrave; scontata dalla prima parcella.
 
 ---
-> Nel caso in cui non abbiate trovato risposta alle vostre domande, potete contattarmi usando il [box di contatti](/altro#box-contatti).
+> Nel caso in cui non abbia trovato risposta alle tue domande, puoi contattarmi usando il [box di contatti](/altro#box-contatti).
 
