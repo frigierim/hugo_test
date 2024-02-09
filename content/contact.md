@@ -1,6 +1,6 @@
 +++
 title = "Contatti"
-id = "contact"
+id = "contact-form"
 +++
 
 # Sono qui per aiutarti

@@ -28,23 +28,29 @@ pluralizelisttitles = false
     weight     = 1
 
 [[menu.main]]
-    name       = "Area informativa"
+    name       = "Servizi"
     identifier = "menu.services"
-    url        = "/services/"
     weight     = 2
+
+[[menu.main]]
+    name       = "Area informativa"
+    identifier = "menu.info"
+    url        = "/services/"
+    parent     = "menu.services"
+    weight     = 1
     
 [[menu.main]]
     name       = "Consulenza"
     identifier = "menu.consulting"
     url        = "/consulenza/"
-    weight     = 1
+    weight     = 2
     parent      = "menu.services"
 
 [[menu.main]]
     name       = "Altri servizi"
     identifier = "menu.other"
     url        = "/altro/"
-    weight     = 2
+    weight     = 3
     parent      = "menu.services"
 
 [[menu.main]]
@@ -53,6 +59,11 @@ pluralizelisttitles = false
     url        = "/faq/"
     weight     = 3
 
+[[menu.main]]
+    name       = "Contatti"
+    identifier = "menu.contacts"
+    url        = "/contact/"
+    weight     = 4
 
 # Top bar social links menu
 
@@ -136,6 +147,8 @@ pluralizelisttitles = false
     enableRecaptchaInContactForm = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
+    staticforms_token = ""
+    
     about_us = "<p>Consulente finanziario indipendente dal 2022, al servizio di chi cerca una guida esperta all'investimento.</p>"
     copyright = "Copyright (c) 2024, Il tuo consulente; tutti i diritti riservati."
 
