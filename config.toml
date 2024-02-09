@@ -28,10 +28,25 @@ pluralizelisttitles = false
     weight     = 1
 
 [[menu.main]]
-    name       = "Servizi"
+    name       = "Area informativa"
+    identifier = "menu.services"
     url        = "/services/"
     weight     = 2
     
+[[menu.main]]
+    name       = "Consulenza"
+    identifier = "menu.consulting"
+    url        = "/consulenza/"
+    weight     = 1
+    parent      = "menu.services"
+
+[[menu.main]]
+    name       = "Altri servizi"
+    identifier = "menu.other"
+    url        = "/altro/"
+    weight     = 2
+    parent      = "menu.services"
+
 [[menu.main]]
     name       = "Domande frequenti"
     identifier = "menu.faq"
@@ -73,12 +88,12 @@ pluralizelisttitles = false
     defaultDescription = "Site template made by OddMode, based on Universal by Devcows using Hugo"
 
     # Social media
-    facebook_site = "" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
-    twitter_site = "sickbyte" # the Twitter handle of your site (without the '@')
-    default_sharing_image = "img/sharing-default.png"
+    #facebook_site = "" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
+    #twitter_site = "sickbyte" # the Twitter handle of your site (without the '@')
+    #default_sharing_image = "img/sharing-default.png"
 
     # Google Maps widget: If `googleMapsApiKey` is not set, no key will be passed to Google (which likely results in a broken map widget).
-    enableGoogleMaps = true
+    enableGoogleMaps = false
     googleMapsApiKey = "AIzaSyAv7Sza8NSp9_l_g8G2vlo0H4ydEPn_2jY"
 
     latitude = "-12.043333"
@@ -122,10 +137,10 @@ pluralizelisttitles = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
     about_us = "<p>Consulente finanziario indipendente dal 2022, al servizio di chi cerca una guida esperta all'investimento.</p>"
-    copyright = "Copyright (c) 2023, Il tuo consulente; tutti i diritti riservati."
+    copyright = "Copyright (c) 2024, Il tuo consulente; tutti i diritti riservati."
 
     # Format dates with Go's time formatting
-    date_format = "6 Gennaio 2023"
+    date_format = "6 Gennaio 2024"
 
     dropdown_mouse_over = false
 
@@ -162,6 +177,7 @@ pluralizelisttitles = false
     search = true
 
 [params.carouselCustomers]
+    # Al momento non utilizzato
     items = 6
     auto_play = false
     slide_speed = 2000
@@ -170,10 +186,11 @@ pluralizelisttitles = false
 [params.carouselServices]
     items = 3
     auto_play = false
-    slide_speed = 2000
-    pagination_speed = 1000
+    slide_speed = 1000
+    pagination_speed = 3000
 
 [params.carouselTestimonials]
+    # Al momento non utilizzato
     items = 4
     auto_play = false
     slide_speed = 2000
@@ -184,11 +201,15 @@ pluralizelisttitles = false
     # at 'exampleSite/data/carousel'.
     # For more information take a look at the README.
     enable = true
-    auto_play = true
-    slide_speed = 10000
-    pagination_speed = 1000
+    
+    # Durata di visualizzazione della singola slide
+    auto_play = 8000
+
+    slide_speed = 15000
+    pagination_speed = 2000
 
 [params.features]
+    # Sezione "LA CONSULENZA FINANZIARIA INDIPENDENTE" 
     enable = true
     cols = 3 # Default: 3, Available values 2,3,4,6
     # All features are defined in their own files. You can find example items
@@ -196,15 +217,16 @@ pluralizelisttitles = false
     # For more information take a look at the README.
 
 [params.services]
+    items = 3
     enable = true
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more information take a look at the README.
-    title = "Cosa offro"
-    subtitle = "Per venire incontro alle esigenze del maggior numero possibile di clienti, ho suddiviso i miei servizi di consulenza in diverse categorie, ciascuna delle quali fornisce un diverso livello di prestazioni e un corrispondente livello di commissioni. Queste sono le categorie di servizio che propongo."
+    title = "Altri servizi offerti"
+    subtitle = ""
 
 [params.testimonials]
-    enable = true
+    enable = false
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more information take a look at the README.
@@ -212,7 +234,7 @@ pluralizelisttitles = false
     subtitle = "Fa sempre piacere sentire un cliente che dice di essere rimasto soddisfatto della nostra collaborazione. Ecco alcuni esempi:"
 
 [params.see_more]
-    enable = true
+    enable = false
     icon = "far fa-file-alt"
     title = "Vuoi vedere di più?"
     subtitle = "Ci sono molte altre pagine in questo sito!"
@@ -220,7 +242,7 @@ pluralizelisttitles = false
     link_text = "Guarda le altre pagine"
 
 [params.clients]
-    enable = true
+    enable = false
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more information take a look at the README.

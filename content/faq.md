@@ -1,36 +1,47 @@
 +++
-title = "FAQ"
+title = "Domande frequenti"
 description = "Domande frequenti"
 keywords = ["FAQ","Come faccio","domande","che succede se"]
 +++
+### COSA VUOL DIRE CFA? 
 
-Questa sezione raccoglie le domande più comuni che ricevo dai miei clienti. 
+CFA sta per Consulente Finanziario Autonomo e altro non &egrave; che la denominazione ufficiale del consulente indipendente. Un CFA deve essere iscritto alla sezione dedicata dell'Albo dei Consulenti Finanziari, con tutte le garanzie che ne conseguono. Per evitare truffe e verificare l'iscrizione di un consulente all'Albo &egrave; sufficiente andare sul sito dell’organismo di vigilanza e tenuta dell'Albo (OCF) e ricercare il nome nell'apposita sezione di ricerca.
 
+### CHE DIFFERENZA C'&Egrave; TRA UN CONSULENTE TRADIZIONALE (EX PROMOTORE FINANZIARIO) E UN CONSULENTE INDIPENDENTE (CFA)?
 
-## 1. CHE SUCCEDE QUANDO CAMBIANO LE MIE ESIGENZE?
+Le differenze sono numerose e sostanziali. La principale &egrave; ci&ograve; che l'indipendenza e l'assenza di conflitto di interessi consentono di fare, tra cui:
 
-Tutti gli investimenti che propongo sono bilanciati sugli obiettivi del singolo cliente, e tengono conto della sua propensione al rischio e dell'orizzonte temporale convenuto alla stipulazione del contratto.
-Qualora i risultati non fossero all'altezza delle aspettative, mettiamoci in contatto per fare il punto sulla situazione del mercato ed eventualmente discutere nuove opportunità di investimento.
+- essere liberi di raccomandare i migliori investimenti su misura per te, senza essere costretti a collocare prodotti commercializzati dalla banca
+- liberarti da eventuali prodotti inefficienti e costosi per te, ma molto remunerativi per la banca
+- impostare strategie mirate senza essere obbligati a farti investire il pi&ugrave; possibile per avere ricavi maggiori
+- percepire un compenso a parcella (fee-only) chiaro e trasparente, senza costi nascosti
 
-* Diversifichiamo il portafoglio, ribilanciandolo sulla base dei tuoi obiettivi 
-* Valutiamo le slot machines a Las Vegas, male che vada sarà un viaggio divertente.
+La vera differenza &egrave; quindi quella tra un consulente che deve accontentare solo te e uno che deve accontentare allo stesso tempo sia te che la banca.
 
-## 2. QUALI SONO LE COMMISSIONI APPLICATE AI MIEI INVESTIMENTI?
+### &Egrave; NECESSARIO CAMBIARE BANCA QUANDO MI AFFIDO ALLA TUA CONSULENZA? 
 
-Le commissioni a compenso dei miei servizi variano da cliente a cliente, a seconda del tipo di investimenti e del pacchetto di servizi richiesto.
-Ma una cosa è sicura: non saranno mai alte quanto quelle che applicano le vostre banche, che sono una manica di parassiti che sfruttano la loro posizione di forza per mantenere il controllo di migliaia di clienti che non hanno tempo o voglia di seguire i propri investimenti in autonomia.
+No, non &egrave; necessario. Se sei soddisfatto della tua banca, della sua solidit&agrave; e delle commissioni di intermediazione applicate, non c'&egrave; alcun bisogno di valutare alternative.
 
-## 3. POSSO AFFIDARMI AI TUOI SERVIZI ANCHE SE RISIEDO ALL'ESTERO?
+### CHI GESTISCE I MIEI SOLDI SE NON INVESTO SECONDO LE INDICAZIONI DELLA BANCA? 
 
-Al momento non sono autorizzato a gestire portafogli di clienti che non risiedono in territorio italiano.
-Ma non disperare: se le richieste in tal senso dovessero raggiungere una massa critica, provvederò ad aggiornare la mia licenza per coprire anche clienti all'estero.
-Non esitare quindi a contattarmi per segnalarmi la tua situazione!
+I tuoi soldi continueranno ad essere gestiti attraverso la tua banca: tutte le operazioni di acquisto e di vendita consigliate dal tuo consulente saranno eseguite dalla banca su tua indicazione (ad esempio tramite home banking).
 
-## 4. ALTRE DOMANDE 
+### IL CFA PU&Ograve; EFFETTUARE OPERAZIONI SUL MIO PATRIMONIO?
 
-Purtroppo sì, sono felicemente sposato e non sono al momento interessato a valutare opportunità alternative.
-Evitate quindi di contattarmi soltanto perchè vi è piaciuta la mia foto nella pagina principale, tanto l'ha generata un'AI; eviteremo discussioni imbarazzanti.
+Assolutamente no, il tuo consulente non avr&agrave; mai la disponibilit&agrave; diretta del tuo patrimonio e questa &egrave; la migliore garanzia per la tua sicurezza.
+
+### COME VIENE PAGATO UN CFA? 
+
+Un consulente indipendente &egrave; pagato a parcella (fee-only) dal cliente. Non riceve alcuna commissione, provvigione o incentivo da banche o reti commerciali per consigliare prodotti finanziari.
+
+### QUANTO MI COSTA LA TUA CONSULENZA? 
+
+Affidandoti alla mia consulenza in materia di investimenti pagherai una parcella fissa annuale stabilita in base al patrimonio in gestione. Ho scelto di applicare prezzi altamente concorrenziali per differenziarmi ancora di pi&ugrave; dalla consulenza tradizionale e garantire che le spese per la consulenza non incidano in modo sproporzionato sul guadagno o rispetto ai benefici ottenuti.
+
+### POSSO AVERE UN'ANALISI DEL MIO PORTAFOGLIO ATTUALE SENZA FIRMARE UN CONTRATTO DI CONSULENZA? 
+
+Certamente, il servizio ti permetter&agrave; ad un costo modico di valutare al meglio i tuoi investimenti attuali grazie ad un'analisi indipendente e professionale, comprensiva della presentazione e discussione dei risultati. Se poi deciderai di firmare un contratto di consulenza in materia di investimenti, la spesa sostenuta ti verr&agrave; scontata dalla prima parcella.
 
 ---
+> Nel caso in cui non abbiate trovato risposta alle vostre domande, potete contattarmi usando il [box di contatti](/altro#box-contatti).
 
-> Nel caso in cui non abbiate trovato risposta alle vostre domande, potete contattarmi ai riferimenti in calce; sarò lieto di rispondervi il prima possibile!

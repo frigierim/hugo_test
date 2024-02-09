@@ -1,7 +1,8 @@
-text: "Questo livello di servizio consente di scegliere assieme una strategia di mercato, sulla cui base procederò a creare e gestire un portafoglio di investimenti mirato."
-service_level: "Premium"
-position: "Gestione del portafoglio"
+text: "QUALSIASI COSA FACCIAMO, PER AUMENTARE LE PROBABILITÀ DI AVERE SUCCESSO È NECESSARIO CONOSCERE AL MEGLIO CIÒ CHE SI FA."
+service_level: "FORMAZIONE"
+service_link: "altro#formazione"
+position: ""
 color_top: "#FFFFFF"
 color_bottom: "#bec4c6"
-avatar: "img/services/2.png"
+  #avatar: "img/services/2.png"
 

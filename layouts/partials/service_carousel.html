@@ -1,23 +1,22 @@
-<!-- *** SERVICES CAROUSEL *** -->
+<!--  *** SERVICES CAROUSEL *** -->
 
-<ul class="owl-carousel services same-height-row"
+<ul 
+    class="owl-carousel services same-height-row"
     data-items="{{ default 4 .Site.Params.CarouselServices.items }}"
     data-autoplay="{{ default false .Site.Params.CarouselServices.auto_play }}"
     data-slide-speed="{{ default 2000 .Site.Params.CarouselServices.slide_speed }}"
     data-pagination-speed="{{ default 1000 .Site.Params.CarouselServices.pagination_speed }}">
     {{ range .Site.Data.services }}
-    <li class="item" style="background:linear-gradient(0deg, {{.color_bottom}} 10%, {{.color_top}} 50%, {{.color_top}} 100%);">
+    <li class="item" style="background-color: {{.color_top}};">
         <div class="service same-height-always">
-            <div class="text">
+            <a style="text-decoration:none;" href="{{ .service_link }}">
+            <div style="background:linear-gradient(0deg, {{.color_bottom}} 20%, {{.color_top}} 30%, {{.color_top}} 100%);border-radius: 5px;box-sizing: border-box; padding: 5px;">
+                    <h4>{{ .service_level }}</h4>
+            </div>
+            <div class="text" style="box-sizing: border-box; padding: 5px;">
                 <p>{{ .text | markdownify }}</p>
             </div>
-            <div class="bottom">
-                <div class="name-picture">
-                    <img class="" alt="" src="{{ .avatar | absURL }}">
-                    <h5>{{ .service_level }}</h5>
-                    <p>{{ .position }}</p>
-                </div>
-            </div>
+            </a>
         </div>
     </li>
     {{ end }}
