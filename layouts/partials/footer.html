@@ -1,3 +1,4 @@
+{{ if isset .Site.Params "about_us" }}
 <footer id="footer">
     <div class="container">
 
@@ -60,7 +61,8 @@
 
     </div>
     <!-- /.container -->
-</footer>
+</footer-->
+{{ end }}
 
 <!-- /#footer -->
 
@@ -72,10 +74,17 @@ _________________________________________________________ -->
 <div id="copyright">
     <div class="container">
         <div class="col-md-12">
-            {{ if isset .Site.Params "copyright" }}
-            <p class="pull-left">{{ .Site.Params.copyright | safeHTML }}</p>
-            {{ end }}
+            <p class="pull-left">Alessandro Pelliccioli CFA - P.IVA 04063230363 - Iscritto con delibera n. 2085 del 2022 nella sezione CFA dell’Albo unico dei consulenti finanziari</p>
+
+            <p class="pull-left"><a href="privacy_policy.html">Privacy Policy</a>&nbsp;|&nbsp;
+            <a href="docs/ACF.docx">Arbitro controversie finanziarie</a>&nbsp;|&nbsp;
+            <a href="docs/informativa precontrattuale.docx">Informativa Precontrattuale</a>&nbsp;|&nbsp;
+            <a href="docs/informativa rischi sostenibilita.docx">Informativa Sostenibilit&agrave;</a></p>
             <p class="pull-right">
+            {{ if isset .Site.Params "copyright" }}
+            {{ .Site.Params.copyright | safeHTML }}
+            {{ end }}
+
               {{ i18n "templateBy" | markdownify }} <a href="https://bootstrapious.com/p/universal-business-e-commerce-template">Bootstrapious</a>.
               <!-- Not removing this link is part of the licence conditions of the template. Thanks for understanding :) -->
 

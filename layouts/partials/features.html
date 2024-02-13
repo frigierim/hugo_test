@@ -24,16 +24,16 @@
                     <div class="col-md-{{ div 12 $elements }} col-{{ $j }} col-{{ if eq (mod $j 2) 0 }}odd{{ else }}even{{ end }}">
                         <div class="box-simple">
                             {{ with $element.url }}
-                            <a href="{{ $element.url }}">
+                            <a href="{{ $element.url }}" style="text-decoration:none">
                             {{ end }}
                                 <div class="icon">
                                     <i class="{{ $element.icon }}"></i>
                                 </div>
+                            <h3>{{ $element.name | markdownify }}</h3>
+                            <p>{{ $element.description | markdownify }}</p>
                             {{ with $element.url }}
                             </a>
                             {{ end }}
-                            <h3>{{ $element.name | markdownify }}</h3>
-                            <p>{{ $element.description | markdownify }}</p>
                         </div>
                     </div>
                 {{ end }}

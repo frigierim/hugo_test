@@ -1,26 +1,27 @@
 <!--  *** SERVICES CAROUSEL *** -->
-
-<ul 
-    class="owl-carousel services same-height-row"
-    data-items="{{ default 4 .Site.Params.CarouselServices.items }}"
-    data-autoplay="{{ default false .Site.Params.CarouselServices.auto_play }}"
-    data-slide-speed="{{ default 2000 .Site.Params.CarouselServices.slide_speed }}"
-    data-pagination-speed="{{ default 1000 .Site.Params.CarouselServices.pagination_speed }}">
-    {{ range .Site.Data.services }}
-    <li class="item" style="background-color: {{.color_top}};">
-        <div class="service same-height-always">
-            <a style="text-decoration:none;" href="{{ .service_link }}">
-            <div style="background:linear-gradient(0deg, {{.color_bottom}} 20%, {{.color_top}} 30%, {{.color_top}} 100%);border-radius: 5px;box-sizing: border-box; padding: 5px;">
-                    <h4>{{ .service_level }}</h4>
-            </div>
-            <div class="text" style="box-sizing: border-box; padding: 5px;">
-                <p>{{ .text | markdownify }}</p>
-            </div>
-            </a>
-        </div>
-    </li>
-    {{ end }}
-</ul>
-<!-- /.owl-carousel -->
+<section class="bar background-white">
+    <div class="container">
+        {{ $services := sort .Site.Data.services "weight" }}
+        {{ $elements := (len $services) }}
+        {{ range $j, $sequence := (seq  0  (sub $elements 1) ) }}
+                    <div class="col-md-{{ div 12 $elements }} col-{{ $j }} col-{{ if eq (mod $j 2) 0 }}odd{{ else }}even{{ end }}">
+                        <div class="box-simple">
+                            {{ $service := index $services $sequence }}
+                            {{ with $service.service_link }}
+                            <a href="{{ $service.service_link }}" style="text-decoration:none">
+                            {{ end }}
+                                <div class="icon">
+                                    <i class="{{ $service.service_icon }}"></i>
+                                </div>
+                            <h3>{{  $service.level | markdownify }}</h3>
+                            <p>{{  $service.text | markdownify }}</p>
+                            {{ with $service.service_link }}
+                            </a>
+                            {{ end }}
+                        </div>
+                    </div>
+            {{ end }}
+    </div>
+</section>
 
 <!-- *** SERVICES CAROUSEL END *** -->

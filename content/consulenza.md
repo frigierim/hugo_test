@@ -5,13 +5,13 @@ show_services = true
 keywords = ["servizi","indipendente","finanziaria","consulenza"]
 +++
 
-## COME FUNZIONA LA CONSULENZA INDIPENDENTE
+## COME FUNZIONA LA CONSULENZA INDIPENDENTE {#come}
 
 La consulenza finanziaria indipendente &egrave; un servizio che ti permette, attraverso un contratto di consulenza in materia di investimenti, di usufruire delle prestazioni di un professionista davvero autonomo, senza alcun legame con banche e reti commerciali, in grado di seguirti passo dopo passo nella gestione del tuo patrimonio e in modo particolare dei tuoi investimenti.
 
 Senza dovere cambiare banca, hai la possibilit&agrave; di ottenere le indicazioni di investimento su misura per te, senza conflitti di interesse e in base alle tue reali necessit&agrave; e alla tua effettiva propensione al rischio. Ci&ograve; permette una gestione condivisa e in totale serenit&agrave;o, senza forzature verso l'acquisto di prodotti finanziari inefficienti legate a logiche commerciali.
 
-## COSA FA IL TUO CONSULENTE INDIPENDENTE
+## COSA FA IL TUO CONSULENTE INDIPENDENTE {#cosa}
 
 Ti ascolto per poter essere un punto di riferimento affidabile in grado di aiutarti a decidere strategie e investimenti. Opero in totale indipendenza da banche e gestori. Ti fornisco le raccomandazioni di acquisto o di vendita e tu sei libero di eseguirle con la tua banca, ad esempio tramite home banking, sempre con il mio supporto a garantirti semplicità e la massima consapevolezza in ogni operazione.
 
@@ -26,7 +26,7 @@ Il servizio di consulenza in materia di investimenti che ti offro comprende, in 
 - Reportistica periodica della situazione di portafoglio in essere
 - Supporto continuo per rispondere ad ogni dubbio e ad ogni tua esigenza
 
-## VANTAGGI DI UNA CONSULENZA FEE-ONLY
+## VANTAGGI DI UNA CONSULENZA FEE-ONLY {#vantaggi}
 
 - Vera consulenza: nessun conflitto di interessi con banche e gestori
 - Scelta di strumenti finanziari efficienti nell'esclusivo interesse della persona che investe: nessun guadagno da incentivi e commissioni

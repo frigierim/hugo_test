@@ -5,7 +5,7 @@
 
             <section>
 
-                {{ .Content }}
+                <!-- {{ .Content }} -->
 
                 <div class="heading">
                   <h3>{{ i18n "contactForm" }}</h3>
@@ -13,7 +13,7 @@
 
                 <div id="contact-message"></div>
 
-                <form method="post" action="https://api.staticforms.xyz/submit">
+                <form id="contact-form" method="post" action="https://api.staticforms.xyz/submit">
                     <div class="row">
                         <div class="col-sm-6">
                             <div class="form-group">
@@ -34,8 +34,13 @@
                             </div>
                         </div>
                         
+                        <div class="col-sm-12">
+                            <div class="form-group">
+                            <input type="checkbox" name="accept_privacy" checked required/><label for="accept_privacy">Dichiaro di aver accettato la <a href="/docs/privacy">politica della privacy</a> e acconsento all'utilizzo dei miei dati personali.</label>
+                            </div>
+                        </div>
+                        
                         <input type="text" name="honeypot" style="display:none">
-
                         {{with .Site.Params.staticforms_token}}
                         <input type="hidden" name="accessKey" value="{{.}}">
                         {{end}}
@@ -43,15 +48,14 @@
                         <input type="hidden" name="subject" value="Iltuoconsulente - Contatto" />
                         <input type="hidden" name="replyTo" value="@">
                         <input type="hidden" name="redirectTo" value="">
-
                         <div class="col-sm-12 text-center">
+
                           <button type="submit" class="btn btn-template-main"><i class="far fa-envelope"></i>{{ i18n "contactSend" }}</button>
 
                         </div>
                     </div>
                     <!-- /.row -->
                 </form>
-
             </section>
 
         </div>
