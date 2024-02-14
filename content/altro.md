@@ -1,6 +1,6 @@
 +++
-title = "Consulenza in materia di investimenti"
-description = "Consulenza in materia di investimenti"
+title = "Altri servizi offerti"
+description = "Altri servizi offerti"
 keywords = ["servizi","aggiuntivi","consulenza", "investimenti"]
 +++
 # Analisi di portafoglio {#analisi}
@@ -39,7 +39,7 @@ L'educazione finanziaria oggi &egrave; un tema particolarmente caldo e sentito c
 
 Non si propongono lunghi corsi con infinite sessioni di educazione finanziaria, bens&igrave; seminari brevi e mirati, oltre che personalizzabili in caso di esigenze specifiche.
 
-Per ulteriori informazioni puoi utilizzare il [box di contatti](#box-contatti) oppure raggiungermi via mail all’indirizzo <a href="mailto:xxxxxxxxxxx@iltuoconsulente.eu">xxxxxxxxxxx@iltuoconsulente.eu</a>
+Per ulteriori informazioni puoi utilizzare il [box di contatti](#box-contatti) oppure raggiungermi via mail all’indirizzo <a href="mailto:info@iltuoconsulente.eu">info@iltuoconsulente.eu</a>
 
 # Pianificazione
 

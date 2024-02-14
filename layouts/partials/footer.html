@@ -76,10 +76,10 @@ _________________________________________________________ -->
         <div class="col-md-12">
             <p class="pull-left">Alessandro Pelliccioli CFA - P.IVA 04063230363 - Iscritto con delibera n. 2085 del 2022 nella sezione CFA dell’Albo unico dei consulenti finanziari</p>
 
-            <p class="pull-left"><a href="privacy_policy.html">Privacy Policy</a>&nbsp;|&nbsp;
-            <a href="docs/ACF.docx">Arbitro controversie finanziarie</a>&nbsp;|&nbsp;
-            <a href="docs/informativa precontrattuale.docx">Informativa Precontrattuale</a>&nbsp;|&nbsp;
-            <a href="docs/informativa rischi sostenibilita.docx">Informativa Sostenibilit&agrave;</a></p>
+            <p class="pull-left"><a href={{ "/privacy/"}}>Privacy Policy</a>&nbsp;|&nbsp;
+            <a href={{ "/acf/" }} >Arbitro controversie finanziarie</a>&nbsp;|&nbsp;
+            <a href={{ "/precontrattuale/"}}>Informativa Precontrattuale</a>&nbsp;|&nbsp;
+            <a href={{ "/sostenibilita/"}}>Informativa Sostenibilit&agrave;</a></p>
             <p class="pull-right">
             {{ if isset .Site.Params "copyright" }}
             {{ .Site.Params.copyright | safeHTML }}

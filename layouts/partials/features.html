@@ -1,6 +1,9 @@
 {{ if isset .Site.Params "features" }}
 {{ if .Site.Params.features.enable }}
 {{ if isset .Site.Data "features" }}
+<div class="heading text-center">
+    <h2>{{ .Site.Params.features.title }}</h2>
+</div>
 {{ if gt (len .Site.Data.features) 0 }}
 <section class="bar background-white">
     <div class="container">
@@ -30,7 +33,11 @@
                                     <i class="{{ $element.icon }}"></i>
                                 </div>
                             <h3>{{ $element.name | markdownify }}</h3>
+
+                            {{ if gt (len $element.description) 0 }}
                             <p>{{ $element.description | markdownify }}</p>
+                            {{ end }}
+
                             {{ with $element.url }}
                             </a>
                             {{ end }}

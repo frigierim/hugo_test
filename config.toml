@@ -40,7 +40,7 @@ pluralizelisttitles = false
     weight     = 1
     
 [[menu.main]]
-    name       = "Consulenza"
+    name       = "Consulenza in materia di investimenti"
     identifier = "menu.consulting"
     url        = "/consulenza/"
     weight     = 2
@@ -88,7 +88,7 @@ pluralizelisttitles = false
 [[menu.topbar]]
     weight = 5
     name = "Posta elettronica"
-    url = "mailto:io@iltuoconsulente.eu"
+    url = "mailto:info@iltuoconsulente.eu"
     pre = "<i class='fas fa-2x fa-envelope'></i>"
 
 [params]
@@ -163,13 +163,12 @@ pluralizelisttitles = false
     logo = "img/logo.png"
     logo_small = "img/logo-small.png"
     contact_url = "/contact"
-#    address = """<p class="text-uppercase"><strong>Il tuo consulente</strong>
-#        <br>Via Emilia xx
-#        <br>41100 Modena
-#        <br>
-#        <strong>Italia</strong>
-#      </p>
-#      """
+    address = """<p class="text-uppercase"><strong>Alessandro Pelliccioli</strong>
+        <br>Via Viterbo 18, 41125 Modena (MO)
+        <br>Tel. <a href="tel:+393207941326">+39 320 7941326</a>
+        <br>Email: <a href="mailto:info@iltuoconsulente.eu">info@iltuoconsulente.eu</a>
+      </p>
+      """
 
 [permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
@@ -177,9 +176,9 @@ pluralizelisttitles = false
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = false
-    text = """<p class="hidden-sm hidden-xs">Per contatti: +39 xxx xxxx xxx oppure io@iltuoconsulente.eu</p>
+    text = """<p class="hidden-sm hidden-xs">Per contatti: +39 xxx xxxx xxx oppure info@iltuoconsulente.eu</p>
       <p class="hidden-md hidden-lg"><a href="tel:+39 xxx xxxx xxx" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
-      <a href="mailto:io@iltuoconsulente.eu" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
+      <a href="mailto:info@iltuoconsulente.eu" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
       </p>
       """
 
@@ -224,6 +223,7 @@ pluralizelisttitles = false
 [params.features]
     # Sezione "LA CONSULENZA FINANZIARIA INDIPENDENTE" 
     enable = true
+    title = "Altri servizi offerti"
     cols = 3 # Default: 3, Available values 2,3,4,6
     # All features are defined in their own files. You can find example items
     # at 'exampleSite/data/features'.

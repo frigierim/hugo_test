@@ -36,7 +36,7 @@
                         
                         <div class="col-sm-12">
                             <div class="form-group">
-                            <input type="checkbox" name="accept_privacy" checked required/><label for="accept_privacy">Dichiaro di aver accettato la <a href="/docs/privacy">politica della privacy</a> e acconsento all'utilizzo dei miei dati personali.</label>
+                                <input type="checkbox" name="accept_privacy" checked required/><label for="accept_privacy">Dichiaro di aver preso visione dell’<a href= {{ "/privacy/" }}>Informativa sul trattamento dei dati personali</a>.</label>
                             </div>
                         </div>
                         
@@ -65,7 +65,7 @@
             {{ if isset .Site.Params "address" }}
             <section>
 
-              <h3 class="text-uppercase"> {{ i18n "contactAddrTitle" }}</h3>
+              <!--h3 class="text-uppercase"> {{ i18n "contactAddrTitle" }}</h3-->
 
                 {{ .Site.Params.address | safeHTML }}
 
