@@ -45,5 +45,5 @@ Affidandoti alla mia consulenza in materia di investimenti pagherai una parcella
 Certamente, il servizio ti permetter&agrave; ad un costo modico di valutare al meglio i tuoi investimenti attuali grazie ad un'analisi indipendente e professionale, comprensiva della presentazione e discussione dei risultati. Se poi deciderai di firmare un contratto di consulenza in materia di investimenti, la spesa sostenuta ti verr&agrave; scontata dalla prima parcella.
 
 ---
-> Nel caso in cui non abbia trovato risposta alle tue domande, puoi contattarmi usando il [box di contatti](/altro#box-contatti).
+> Nel caso in cui non abbia trovato risposta alle tue domande, puoi contattarmi usando il [box di contatti](/contact).
 

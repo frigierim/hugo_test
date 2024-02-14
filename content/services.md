@@ -1,4 +1,4 @@
-+++
+
 title = "Area informativa"
 description = "Area informativa"
 show_services = true
@@ -80,10 +80,7 @@ Se non ci sono le condizioni perch&eacute; sia così, sar&ograve; io il primo a 
 
 Gli eventi pubblici sono accessibili gratuitamente fino ad esaurimento posti.
 
-Prenota il tuo posto utilizzando il questo box. &Egrave; sufficiente inserire:
+Prenota il tuo posto utilizzando il [box contatti](/contact). &Egrave; sufficiente inserire:
 * data dell'evento
 * numero di partecipanti
 
-# CONTATTI
-
-TODO: BOX PER CONTATTI

@@ -63,8 +63,3 @@ I servizi di pianificazione non sono inclusi nel rapporto di consulenza continua
 **Pianificazione successoria**: protezione del patrimonio in vista di un trasferimento ereditario
 - Elaborazione strategia che tenga conto delle quote ereditarie e permetta vantaggi in termini di costi e fiscalit&agrave;
 - Valutazione delle possibili modalit&agrave; di trasferimento del patrimonio personale: testamento, polizze vita, donazione, trust, patti di famiglia
-
-## Box contatti
-
-TODO
-
