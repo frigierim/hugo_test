@@ -5,6 +5,7 @@ show_services = true
 keywords = ["servizi","pricing","services","consulenza"]
 +++
 # {#informativa}
+<br/>
 
 # AUTONOMIA &Egrave; LIBERT&Agrave;
 
@@ -26,7 +27,10 @@ L'iscrizione all'**Albo dei consulenti finanziari autonomi**:
 - Nessun obbligo di cambiare la tua **banca**
 - Il tuo consulente non avrà **mai** la disponibilità dei tuoi soldi
 
+[Contattami qui](/contact) per richiedere un incontro gratuito o per avere maggiori informazioni
+
 # {#marketing}
+<br/>
 
 # SEMPRE DALLA TUA PARTE 
 
@@ -51,7 +55,10 @@ Le situazioni specifiche che richiedono una pianificazione finanziaria sono innu
 ## LA SCELTA &Egrave; TUA
 Qualunque sia la tua situazione, il futuro dei tuoi risparmi lo decidi tu. Puoi decidere di continuare con quegli investimenti che in tanti anni hanno reso cos&igrave; poco o tenere un eccesso di liquidit&agrave; sul conto corrente per la paura di investire e ritrovarti poi con il valore reale del capitale eroso dall'inflazione. Oppure puoi affidarti alla consulenza indipendente e scegliere di dare una svolta alla gestione del tuo capitale.
 
+[Contattami qui](/contact) per richiedere un incontro gratuito o per avere maggiori informazioni
+
 # {#commerciale}
+<br/>
 
 # UN LUSSO CHE TI CONVIENE 
 
@@ -74,13 +81,16 @@ La spesa sostenuta per la consulenza non deve incidere in modo sproporzionato su
 
 Se non ci sono le condizioni perch&eacute; sia così, sar&ograve; io il primo a dirti che non &egrave; la soluzione adatta a te e se ti fa piacere non sar&agrave; un problema consigliarti e indirizzarti verso soluzioni pi&ugrave; adatte alle tue esigenze e al tuo patrimonio.
 
+[Contattami qui](/contact) per richiedere un incontro gratuito o per avere maggiori informazioni
+
 # {#eventi}
+<br/>
 
 # EVENTI
 
 Gli eventi pubblici sono accessibili gratuitamente fino ad esaurimento posti.
 
-Prenota il tuo posto utilizzando il [box contatti](/contact). &Egrave; sufficiente inserire:
+[Contattami qui](/contact) per prenotare il tuo posto. &Egrave; sufficiente inserire:
 * data dell'evento
 * numero di partecipanti
 

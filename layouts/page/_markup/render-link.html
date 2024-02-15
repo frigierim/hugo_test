@@ -1,0 +1,5 @@
+{{ if strings.Contains .Destination "contact" }}
+<a class="btn btn-template-main" style="text-decoration:none;" href="{{ .Destination | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}>{{ .Text | safeHTML }}</a>
+{{ else }}
+<a href="{{ .Destination | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}>{{ .Text | safeHTML }}</a>
+{{ end }}

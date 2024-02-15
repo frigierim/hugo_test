@@ -13,6 +13,8 @@ Otterrai cos&igrave; tutte le indicazioni necessarie per valutare la **composizi
 
 L'analisi di portafoglio &egrave; un servizio che si pu&ograve; richiedere anche senza sottoscrivere necessariamente un contratto di consulenza continuativa. Se poi in seguito all'analisi deciderai di usufruire del servizio di consulenza in materia di investimenti, il costo dell'analisi ti sar&agrave; scalato dalla parcella e sa&agrave; di fatto gratuito.
 
+[Richiedi qui](/contact/) la tua analisi di portafoglio professionale e indipendente.
+
 # Formazione {#formazione}
 
 ## Formazione personalizzata agli investitori in materia di strumenti e mercati finanziari
@@ -23,7 +25,7 @@ La conoscenza approfondita di ci&ograve; in cui si va ad investire &egrave; impr
 
 La formazione offerta &egrave; rivolta anche a chi ha gi&agrave; familiarit&agrave; con gli investimenti e ha bisogno di chiarire aspetti particolari legati ad un mercato o ad uno specifico strumento o prodotto finanziario, alla fiscalit&agrave; e al recupero delle minusvalenze, alla leva finanziaria, ecc.
 
-Puoi richiedere subito la tua sessione di formazione utilizzando il [box di contatti](#box-contatti). Non si tratta di pacchetti gi&agrave; pronti, avrai una formazione personalizzata in base alle tue richieste, sia nella durata che nei contenuti.
+Puoi richiedere subito la tua sessione di formazione utilizzando il [box di contatti](/contact/). Non si tratta di pacchetti gi&agrave; pronti, avrai una formazione personalizzata in base alle tue richieste, sia nella durata che nei contenuti.
 
 ## Colloqui personalizzati a richiesta su singoli temi, anche di attualit&agrave;
 
@@ -33,13 +35,15 @@ Attraverso una o pi&ugrave; sessioni video online dalla durata concordata in bas
 
 Nel caso sia attivo un rapporto di consulenza in materia di investimenti, ogni colloquio di chiarimento di cui avrete bisogno sul mondo degli investimenti &egrave; gi&agrave; incluso e non richieder&agrave; alcun compenso ulteriore.
 
+[Richiedi qui](/contact/) il tuo colloquio e fammi sapere quali sono gli argomenti che ti piacerebbe conoscere o approfondire!
+
 ## Seminari in materia di educazione finanziaria e finanza comportamentale: pubblici o privati ad hoc per aziende, associazioni, circoli, società sportive, ecc.
 
 L'educazione finanziaria oggi &egrave; un tema particolarmente caldo e sentito come necessario da un numero sempre maggiore di persone. Offrire un seminario formativo in tema finanziario ai propri dipendenti o associati vuol dire cogliere l'opportunità di fornire loro uno strumento in grado di agevolarli nella gestione del loro patrimonio e di dare loro un vantaggio nel raggiungimento di un personale benessere finanziario.
 
 Non si propongono lunghi corsi con infinite sessioni di educazione finanziaria, bens&igrave; seminari brevi e mirati, oltre che personalizzabili in caso di esigenze specifiche.
 
-Per ulteriori informazioni puoi utilizzare il [box di contatti](#box-contatti) oppure raggiungermi via mail all’indirizzo <a href="mailto:info@iltuoconsulente.eu">info@iltuoconsulente.eu</a>
+Per ulteriori informazioni puoi utilizzare il [box di contatti](/contact/) oppure raggiungermi via mail all’indirizzo <a href="mailto:info@iltuoconsulente.eu">info@iltuoconsulente.eu</a>
 
 # Pianificazione
 
@@ -63,3 +67,5 @@ I servizi di pianificazione non sono inclusi nel rapporto di consulenza continua
 **Pianificazione successoria**: protezione del patrimonio in vista di un trasferimento ereditario
 - Elaborazione strategia che tenga conto delle quote ereditarie e permetta vantaggi in termini di costi e fiscalit&agrave;
 - Valutazione delle possibili modalit&agrave; di trasferimento del patrimonio personale: testamento, polizze vita, donazione, trust, patti di famiglia
+
+[Richiedi qui](/contact/) il servizio di pianificazione di cui hai bisogno.

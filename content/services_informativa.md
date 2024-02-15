@@ -23,3 +23,5 @@ L'iscrizione all'**Albo dei consulenti finanziari autonomi**:
 - Nessun obbligo di cambiare la tua **banca**
 - Il tuo consulente non avrà **mai** la disponibilità dei tuoi soldi
 
+
+[Contattami qui](/contact) per richiedere un incontro gratuito o per avere maggiori informazioni

@@ -27,3 +27,4 @@ Le situazioni specifiche che richiedono una pianificazione finanziaria sono innu
 ## LA SCELTA &Egrave; TUA
 Qualunque sia la tua situazione, il futuro dei tuoi risparmi lo decidi tu. Puoi decidere di continuare con quegli investimenti che in tanti anni hanno reso cos&igrave; poco o tenere un eccesso di liquidit&agrave; sul conto corrente per la paura di investire e ritrovarti poi con il valore reale del capitale eroso dall'inflazione. Oppure puoi affidarti alla consulenza indipendente e scegliere di dare una svolta alla gestione del tuo capitale.
 
+[Contattami qui](/contact) per richiedere un incontro gratuito o per avere maggiori informazioni

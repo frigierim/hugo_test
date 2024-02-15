@@ -23,3 +23,6 @@ Ogni persona e ogni situazione patrimoniale sono uniche. Il concetto fondamental
 La spesa sostenuta per la consulenza non deve incidere in modo sproporzionato sul guadagno o rispetto ai benefici ottenuti.
 
 Se non ci sono le condizioni perch&eacute; sia così, sar&ograve; io il primo a dirti che non &egrave; la soluzione adatta a te e se ti fa piacere non sar&agrave; un problema consigliarti e indirizzarti verso soluzioni pi&ugrave; adatte alle tue esigenze e al tuo patrimonio.
+
+
+[Contattami qui](/contact) per richiedere un incontro gratuito o per avere maggiori informazioni
