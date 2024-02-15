@@ -11,22 +11,30 @@
                 data-pagination-speed="{{ default 1000 .Site.Params.CarouselHomepage.pagination_speed }}">
                 {{ range sort .Site.Data.carousel "weight" }}
                 <div class="item">
-                    {{ if .href }}
-                    <!--a href="{{ .href }}" target="_blank" title="{{ .title | safeHTML }}"-->
-                    <a href="{{ .href }}"  title="{{ .title | safeHTML }}">
-                    {{ end }}
                         <div class="row">
                             <div class="col-sm-5 right">
-                                <h1>{{ .title | safeHTML }}</h1>
-                                {{ .description | safeHTML }}
+                                {{ if .href }}
+                                <!--a href="{{ .href }}" target="_blank" title="{{ .title | safeHTML }}"-->
+                                <a style="text-decoration:none;" href="{{ .href }}"  title="{{ .title | safeHTML }}">
+                                {{ end }}
+                                            <h1>{{ .title | safeHTML }}</h1>
+                                            {{ .description | safeHTML }}
+                                {{ if .href }}
+                                </a>
+                                {{ end }}
+                                {{ .callToAction | safeHTML }}
                             </div>
-                            <div class="col-sm-7">
-                                <img class="img-responsive" src="{{ .image }}" alt="">
-                            </div>
+                            {{ if .href }}
+                            <!--a href="{{ .href }}" target="_blank" title="{{ .title | safeHTML }}"-->
+                            <a style="text-decoration:none;" href="{{ .href }}"  title="{{ .title | safeHTML }}">
+                            {{ end }}
+                                    <div class="col-sm-7">
+                                        <img class="img-responsive" src="{{ .image }}" alt="">
+                                    </div>
+                            {{ if .href }}
+                            </a>
+                            {{ end }}
                         </div>
-                    {{ if .href }}
-                    </a>
-                    {{ end }}
                 </div>
                 {{ end }}
             </div>
