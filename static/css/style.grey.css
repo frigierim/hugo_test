@@ -1175,7 +1175,7 @@ fieldset[disabled] .btn-template-primary.active {
   filter: alpha(opacity=90);
 }
 .home-carousel .owl-carousel {
-  padding-top: 60px;
+  padding-top: 40px;
   padding-bottom: 20px;
 }
 .home-carousel .owl-theme .owl-controls .owl-page span {
@@ -1823,7 +1823,7 @@ fieldset[disabled] .btn-template-primary.active {
 #heading-breadcrumbs {
   background: url('../img/texture-grey.png') center center repeat;
   padding: 20px 0;
-  margin-bottom: 40px;
+  margin-bottom: 10px;
 }
 #heading-breadcrumbs.no-mb {
   margin-bottom: 0;
